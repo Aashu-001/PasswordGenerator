@@ -1,5 +1,5 @@
 let b = 10;
-
+//this is just a algo example
 function greet(){
     let a = 20;
     let b = 30;
